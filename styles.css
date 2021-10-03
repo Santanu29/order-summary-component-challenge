@@ -81,7 +81,7 @@ body {
 	margin-left: 20px;
 }
 
-.plan-box .left-content .plan h3 {
+.plan-box .left-content .plan h2 {
 	color: hsl(223, 47%, 23%);
 	font-size: 15px;
 	font-weight: 900;
@@ -185,7 +185,7 @@ body {
 		margin-left: 10px;
 	}
 
-	.plan-box .left-content .plan h3,
+	.plan-box .left-content .plan h2,
 	.plan-box .left-content .plan p {
 		font-size: 12px;
 	}
